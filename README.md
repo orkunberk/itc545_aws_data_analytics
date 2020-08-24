@@ -1,4 +1,4 @@
-# Data Analytics with AWS
+# ITC545 / BDA564 Data Analytics with AWS
 
 An introduction to aws services (s3, sagemaker, glue and aathena) and boto3 library for data analytics.
 
